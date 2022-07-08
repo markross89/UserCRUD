@@ -4,6 +4,7 @@
 
 Simple CRUD app to manage user datbase
 
+    MVC, Servlety, OOP, MySQL, klasy DAO, Maven
 ---
 
 ## Licence & copyrights
